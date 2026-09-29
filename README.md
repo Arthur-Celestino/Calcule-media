@@ -1,6 +1,6 @@
 # Calculo de Média:
 
-### Um projeto curto, desenvolvido em python, feito calcular a média.
+### Um projeto curto, desenvolvido em python, feito calcular da média.
 ***
 
 # Tecnologias utilizadas:
