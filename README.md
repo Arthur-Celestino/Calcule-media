@@ -3,7 +3,7 @@
 ### Um projeto curto, desenvolvido em python, feito calcular da média.
 ***
 
-# Tecnologias utilizadas:
+# Tecnologia utlizadas:
 ### 1. **Python**
 ### 2. **VS Code**
 ### 3. **GIT e GitHub**
