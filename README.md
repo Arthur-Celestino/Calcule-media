@@ -23,3 +23,9 @@
 ### 4. input
 ### 5. if
 ### 6. else
+
+# Autor e Contato:
+
+*Projeto feito por Arthur Celestino Cardoso*
+linkedin.com/in/arthur-celestino
+github.com/Arthur-Celestino 
